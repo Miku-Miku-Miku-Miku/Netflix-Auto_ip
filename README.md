@@ -15,3 +15,5 @@
     curl http://10.231.92.10/changeip/changeip.aspx
     
 更改成为自己的即可
+
+**最后添加定时任务写进crontab即可**

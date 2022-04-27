@@ -4,7 +4,7 @@
 
 **首先拉取脚本**
 
-    wget https://github.com/Miku-Miku-Miku-Miku/Netflix-Auto_ip/blob/main/auto_ip.sh
+    wget https://raw.githubusercontent.com/Miku-Miku-Miku-Miku/Netflix-Auto_ip/master/auto_ip.sh
 
 **更改脚本第七行为自己的更换ip的API**
 
